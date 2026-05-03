@@ -1,3 +1,4 @@
+# Welcome!
 - 👋 Hi, I’m @RubenYuberth
 - 👀 I’m interested in Computer Vision, CFD and robotics.
 - Mainly coding in Python.
@@ -5,6 +6,16 @@
 - Teaching to programming at my local municipality.
 - 📫 How to reach me: ruben.yuberth@gmail.com
 
+# Python libraries
+- OpenCV
+- Pytorch
+- sklearn
+- scipy
+- FastAPI
+- Streamlit
+- NiceGUI
+- Numpy
+- Pandas
 <!---
 RubenYuberth/RubenYuberth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
