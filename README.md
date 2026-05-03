@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RubenYuberth
 - 👀 I’m interested in Computer Vision, Artificial Vision, CFD and robotics.
-- 🌱 I’m currently learning artificial vision, particullarly, in warping, shape from texture, stereo vision. Currently using Python and MATLAB for programming.
+- Right now studying Deep Learning with Pytorch and FastAPI/NiceGUI by myself.
 - 📫 How to reach me: ruben.yuberth@gmail.com
 
 <!---
