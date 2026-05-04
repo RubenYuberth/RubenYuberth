@@ -12,6 +12,7 @@
 - sklearn
 - scipy
 - FastAPI
+- SQLModel
 - Streamlit
 - NiceGUI
 - Numpy
