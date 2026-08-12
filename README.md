@@ -3,7 +3,7 @@
 - 👀 I’m interested in Computer Vision, LLMs, deploying APIs and visualize data.
 - Experience in Neural Networks, CFD, computer vision and robotics.
 - Mainly coding in Python.
-- Right now studying Deep Learning with Pytorch and deploy with FastAPI/NiceGUI by myself.
+- Right now obsessed making interactive visualization with TypeScript and p5.js and D3.js.
 - Building ai agents with Pydantic AI too.
 - Teaching to programming at my local municipality.
 - 📫 How to reach me: ruben.yuberth@gmail.com
