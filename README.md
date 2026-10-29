@@ -5,7 +5,7 @@
 - Mainly coding in Python.
 - Right now obsessed making interactive visualization with TypeScript and p5.js and D3.js.
 - Building ai agents with Pydantic AI too.
-- Teaching to programming at my local municipality.
+- Teaching mechanical engineering at Universidad de La Frontera, Temuco.
 - 📫 How to reach me: ruben.yuberth@gmail.com
 
 # Python libraries
